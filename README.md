@@ -5,10 +5,8 @@
 ## 💻 About Me
 
 - 💡 Passionate about building secure, scalable, and user-focused applications
-- 🛠️ Skilled in **C#, JavaScript, Java, SQL**, and **REST API development**
+- 🎓 Graduated with a 3.94 GPA in Computer Programming and Analysis
 - 🌐 Experienced in **frontend and backend development**
-- ☁️ Interested in **cloud platforms**, clean architecture, and DevOps best practices
-- 🧠 Always learning – recently explored **Unity**, **Firebase**, and **OCR-based features** in mobile development
 
 ## 🔧 Tech Stack
 
