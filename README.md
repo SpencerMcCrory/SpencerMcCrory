@@ -5,8 +5,8 @@
 ## 💻 About Me
 
 - 💡 Passionate about building secure, scalable, and user-focused applications
-- 🛠️ Skilled in **C#, ASP.NET Core, JavaScript, SQL**, and **REST API development**
-- 🌐 Experienced in **frontend and backend development**, working with technologies like **JavaScript (ES6+), HTML/CSS, MVC/MVVM**, and **SQL Server/MySQL**
+- 🛠️ Skilled in **C#, JavaScript, Java, SQL**, and **REST API development**
+- 🌐 Experienced in **frontend and backend development**
 - ☁️ Interested in **cloud platforms**, clean architecture, and DevOps best practices
 - 🧠 Always learning – recently explored **Unity**, **Firebase**, and **OCR-based features** in mobile development
 
