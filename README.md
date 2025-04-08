@@ -34,7 +34,7 @@ Java + Firebase mobile health companion app.
 - Shareable PDF health reports to share in professional medical consultations
 - Medication alarm reminders integrated with consumption tracking  
 - MVVM architecture
-- 
+  
 ### 🛒 [Conestoga Video Game Store](https://github.com/SpencerMcCrory/Insight-CVGS)
 ASP.NET MVC full-stack e-commerce platform.  
 - Role-based authentication, wishlist sharing, and game/event management  
