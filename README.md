@@ -26,15 +26,19 @@ Git, Bitbucket, Azure DevOps, JIRA, Visual Studio, VS Code, Figma
 
 ## 📌 Notable Projects
 
+### 💊 VitaVault (Coming soon, my current capstone project)
+Java + Firebase mobile health companion app.  
+- Tracks vitals, symptoms, medication, and dietary restrictions
+- Google Cloud OCR technology and Gemini AI to get advanced dietary restriction analysis
+- Data visualization to see vital trends
+- Shareable PDF health reports to share in professional medical consultations
+- Medication alarm reminders integrated with consumption tracking  
+- MVVM architecture
+- 
 ### 🛒 [Conestoga Video Game Store](https://github.com/SpencerMcCrory/Insight-CVGS)
 ASP.NET MVC full-stack e-commerce platform.  
 - Role-based authentication, wishlist sharing, and game/event management  
 - Features include CRUD operations, event registration, shopping cart, and sales analytics
-
-### 💊 VitaVault (Coming soon, my current capstone project)
-Java + Firebase mobile health companion app.  
-- Tracks vitals, symptoms, medication, and dietary restrictions  
-- MVVM architecture with push notifications and OCR-based food scanning
 
 ### 🎮 [Medieval Maze](https://github.com/SpencerMcCrory/Medieval-Maze)
 Multi-level MonoGame platformer built with C# .NET.  
