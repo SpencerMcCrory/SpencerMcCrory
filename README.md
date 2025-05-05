@@ -24,7 +24,7 @@ Git, Bitbucket, Azure DevOps, JIRA, Visual Studio, VS Code, Figma
 
 ## 📌 Notable Projects
 
-### 💊 VitaVault (Coming soon, my current capstone project)
+### 💊 [VitaVault](https://www.linkedin.com/posts/spencer-mccrory_vitavault-capstoneproject-androiddev-activity-7321231916676927490-_0s1)
 Java + Firebase mobile health companion app.  
 - Tracks vitals, symptoms, medication, and dietary restrictions
 - Google Cloud OCR technology and Gemini AI to get advanced dietary restriction analysis
