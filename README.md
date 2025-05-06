@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Spencer McCrory
 
-🎓 I'm a soon-to-be graduate of the Computer Programming & Analysis Advanced Diploma program at Conestoga College (April 2025), with a strong focus on full-stack web development, backend APIs, and scalable software solutions.
+🎓 I'm a new graduate of the Computer Programming & Analysis Advanced Diploma program at Conestoga College (April 2025), with a strong focus on full-stack web development, backend APIs, and scalable software solutions.
 
 ## 💻 About Me
 
 - 💡 Passionate about building secure, scalable, and user-focused applications
-- 🎓 Graduated with a 3.94 GPA in Computer Programming and Analysis
+- 🎓 Graduated with a 3.95 GPA in Computer Programming and Analysis
 - 🌐 Experienced in **frontend and backend development**
 
 ## 🔧 Tech Stack
@@ -17,7 +17,7 @@ C#, Java, JavaScript, Python, SQL, HTML/CSS
 ASP.NET Core, .NET MVC, MonoGame, Firebase, Angular, Bootstrap, Node.js, Express
 
 **Databases:**  
-SQL Server, MySQL, MongoDB, IndexedDB
+MSSQL Server, MySQL, MongoDB, IndexedDB
 
 **Other Tools:**  
 Git, Bitbucket, Azure DevOps, JIRA, Visual Studio, VS Code, Figma
