@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Spencer McCrory
 
-🎓 I'm a new graduate of the Computer Programming & Analysis Advanced Diploma program at Conestoga College (April 2025), with a strong focus on full-stack web development, backend APIs, and scalable software solutions.
 
 ## 💻 About Me
 
 - 💡 Passionate about building secure, scalable, and user-focused applications
-- 🎓 Graduated with a 3.95 GPA in Computer Programming and Analysis
+- 🎓 Current Software Engineering student at McMaster University
 - 🌐 Experienced in **frontend and backend development**
 
 ## 🔧 Tech Stack
