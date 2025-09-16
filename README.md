@@ -1,11 +1,12 @@
-# 👋 Hi, I'm Spencer McCrory
+# 👋 Hi, I'm Spencer McCrory  
 
+## 💻 About Me  
 
-## 💻 About Me
-
-- 💡 Passionate about building secure, scalable, and user-focused applications
-- 🎓 Current Software Engineering student at McMaster University
-- 🌐 Experienced in **frontend and backend development**
+- 🎓 Software Engineering student at McMaster University with an Advanced Diploma in Computer Programming & Analysis (3.95 GPA)  
+- 💡 Passionate about developing **secure, scalable, and user-focused software**  
+- 🌐 Hands-on experience in **full-stack development, RESTful APIs, and database design**  
+- 🤝 Strong collaborator with project experience in **team-based Agile environments**  
+- 🚀 Seeking a **co-op opportunity** to apply my skills, contribute to impactful projects, and continue learning from industry professionals  
 
 ## 🔧 Tech Stack
 
